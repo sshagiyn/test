@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body {
+    color: #333;
+    font-size: 1.4rem;
+    font-family: "游ゴシック", YuGothic, "メイリオ", Verdana, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 0.1em;
+    background-color: #f9f7ea;
+}
